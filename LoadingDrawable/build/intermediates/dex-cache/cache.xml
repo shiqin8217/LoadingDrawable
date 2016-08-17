@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_50e7c5dd7a45a1e4a2755661cba51ef7a3883135.jar" />
+    </item>
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_d8be3fe790ae6d4f8f681dde1dbc5a70751842c4.jar" />
+    </item>
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_cb780f8b13cbe3166eb378b609ecf82a07c87c15.jar" />
+    </item>
+    <item
+        jar="/home/sage/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_589a07eb28451e67a5dbc33bd9ead2e08787fc21.jar" />
+    </item>
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_228fab82c1eb3e25e7d280687cad9c46e6cb629d.jar" />
+    </item>
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_7360990dd91ae7be0a4ddb87da03a170b890f5a3.jar" />
+    </item>
+    <item
+        jar="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/exploded-aar/LoadingDrawable/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3aaa2e7e262ab1472d873d8995292d95826ac225">
+        <dex dex="/home/sage/workspace-as/ui/LoadingDrawable/app/build/intermediates/pre-dexed/debug/LoadingDrawable-library-unspecified_4b577d7641aa5f6fce6ad7fb5cdc0dc0c006bc24.jar" />
+    </item>
+
+</items>
